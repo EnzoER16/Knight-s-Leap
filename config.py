@@ -1,0 +1,12 @@
+# pantalla
+WIDTH, HEIGHT = 1000, 800
+
+# colores
+DARK_BLUE = (3, 38, 49)
+LIGHT_BLUE = (16, 211, 195)
+GREY = (100, 100, 100)
+ORANGE = (250, 95, 0)
+BLACK = (0, 0, 0)
+LIGHT_YELLOW = (251, 252, 111)
+PURPLE = (111, 44, 119)
+CREAM = (244, 153, 144)
